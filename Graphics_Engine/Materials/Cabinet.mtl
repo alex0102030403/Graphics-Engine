@@ -1,0 +1,5 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.75 0.70 0.25
+Ka 0.10 0.10 0.10
+Ns 32.00
